@@ -6,7 +6,6 @@ import { SafeAreaView } from "react-native-safe-area-context";
 
 
 import CartButton from "@/components/CartButton";
-import './global.css';
 
 
 export default function Index() {
